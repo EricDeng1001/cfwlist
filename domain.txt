@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,fulijianghu.net
+  - DOMAIN-SUFFIX,fulijianghu.com
+  - DOMAIN-SUFFIX,laowang.vip
+  - DOMAIN-SUFFIX,doc.rs
